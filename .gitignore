@@ -355,3 +355,5 @@ ProjectSettings/ProjectVersion.txt
 TestWorld.csproj
 TestWorld.Editor.csproj
 TestWorld.sln
+*.csproj
+*.sln
