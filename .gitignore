@@ -328,3 +328,30 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+Library/
+Assets/VRCSDK/
+
+*.asset
+*.mat
+*.png
+*.tga
+*.bmp
+*.jpg
+*.dds
+*.spa
+*.anim
+*.unity
+*.controller
+*.prefab
+*.shader
+*.dll
+*.cginc
+*.fbx
+*.sph
+*.mdb
+
+ProjectSettings/ProjectVersion.txt
+TestWorld.csproj
+TestWorld.Editor.csproj
+TestWorld.sln
